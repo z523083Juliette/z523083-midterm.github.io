@@ -1,0 +1,50 @@
+
+.header-container {
+    position: relative;
+    text-align: center;
+}
+
+.name-text {
+    margin-top: 4vw;
+    font-size: 2.5vw;
+}
+
+.header-photo{
+    width: 100vw;
+    height: auto;
+    max-width: 100%;
+}
+
+.header-bomberman {
+    background-color: rgb(216, 241, 253);
+    color: #fff;
+    padding: 10px 20px;
+    display: flex;
+    justify-content:center;
+    align-items: left;
+}
+
+.header-localshirt {
+    background-color: rgb(141, 214, 139);
+    color: #fff;
+    padding: 10px 20px;
+    display: flex;
+    justify-content:center;
+    align-items: left;
+}
+
+.header-gomoku {
+    background-color: rgb(161, 145, 132);
+    color: #fff;
+    padding: 10px 20px;
+    display: flex;
+    justify-content:center;
+    align-items: left;
+}
+
+
+header {
+    color: #fff;
+    background-color: rgb(255, 163, 147);
+    text-align: center;
+}
